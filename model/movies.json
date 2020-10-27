@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Posse",
+        "gender": "Western",
+        "year": 1997
+    },
+    {
+        "id": 2,
+        "name": "First Day of the Rest of Your Life, The (Le premier jour du reste de ta vie)",
+        "gender": "Comedy|Drama",
+        "year": 2010
+    },
+    {
+        "id": 3,
+        "name": "American, The",
+        "gender": "Drama|Thriller",
+        "year": 1990
+    },
+    {
+        "id": 4,
+        "name": "Pentagon Wars, The",
+        "gender": "Comedy|War",
+        "year": 1996
+    },
+    {
+        "id": 5,
+        "name": "One Way Passage",
+        "gender": "Drama|Romance",
+        "year": 2006
+    }
+]
